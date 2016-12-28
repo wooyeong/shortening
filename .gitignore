@@ -7,6 +7,9 @@
 _obj
 _test
 
+# Dev tool specific folders
+.vscode
+
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
@@ -22,3 +25,4 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
